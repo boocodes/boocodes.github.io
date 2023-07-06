@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e2ba37f.css",
+    "main.js": "/static/js/main.428c2763.js",
+    "static/media/MullerLight.woff": "/static/media/MullerLight.d2769648f88e6650a9d9.woff",
+    "static/media/MullerMedium.woff": "/static/media/MullerMedium.e4afbbd09b05b2b18798.woff",
+    "static/media/MullerBold.woff": "/static/media/MullerBold.53c7c067015e4cf16c43.woff",
+    "static/media/MullerRegular.woff": "/static/media/MullerRegular.3582a987cefb6de667ff.woff",
+    "index.html": "/index.html",
+    "main.2e2ba37f.css.map": "/static/css/main.2e2ba37f.css.map",
+    "main.428c2763.js.map": "/static/js/main.428c2763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2ba37f.css",
+    "static/js/main.428c2763.js"
+  ]
+}
